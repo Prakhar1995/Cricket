@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+html,body{
+    height:100%;
+    margin:0px;
+    
+    
+   
+}
+#bgimage{
+    /* background-image: linear-gradient(to right,#0f101094); */
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: fixed;
+    z-index: -1;
+    width:100%;
+}
